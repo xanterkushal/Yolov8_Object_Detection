@@ -8,4 +8,6 @@ pip install ultralytics
 pip install supervision
 
 pip install onnx     (this will boost the performance)
+
+
 pip install openvino  (improve performance)
