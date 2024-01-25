@@ -3,7 +3,7 @@
 Make a Virtual Environment with python version>=3.8
 Then install these packages
 
-pip install Ultralytics
+pip install ultralytics
 
 pip install supervision
 
